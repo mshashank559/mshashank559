@@ -18,6 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mshashank559" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mshashank559" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shashank-mishra-64471a22b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shashank-mishra-64471a22b/" height="30" width="40" /></a>
 <a href="https://instagram.com/_.mysterio01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.mysterio01" height="30" width="40" /></a>
 </p>
 
